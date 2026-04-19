@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # The Language of Trust: The Mechanisms of Institutional Trust in NATO among
 
 Russian and Latvian Speakers in Latvia
