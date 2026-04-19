@@ -1,11 +1,8 @@
-# The Language of Trust: The Mechanisms of Institutional Trust in NATO among
-
-Russian and Latvian Speakers in Latvia
+# The Language of Trust: The Mechanisms of Institutional Trust in NATO among Russian and Latvian Speakers in Latvia
 
 **Author:** Kate Klinger\
 **Date:** April 01, 2026\
-**Context:** Senior Honors Thesis — Curriculum in Peace, War and Defense
-at the University of North Carolina at Chapel Hill
+**Context:** Senior Honors Thesis — Curriculum in Peace, War and Defense at the University of North Carolina at Chapel Hill
 
 ## Overview
 
